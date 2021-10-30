@@ -1,2 +1,2 @@
 # Fake-News-Detection
-A Machine Learning algorithm for detecting fake news with Python and scikit learn
+A simple Machine Learning algorithm for detecting fake news with Python and scikit learn
